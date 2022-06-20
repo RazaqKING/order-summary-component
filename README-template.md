@@ -48,7 +48,7 @@ I Learnt more about CSS Positioning and box shadow While Working On the project 
 
 ## Author
 
-- Website - [Add your name here](ADELEYE ABDULRAZAQ)
+- Website - (ADELEYE ABDULRAZAQ)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@razaqotr](https://www.twitter.com/razaqotr)
 
